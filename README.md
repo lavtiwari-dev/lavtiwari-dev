@@ -14,10 +14,9 @@
 
 🚀 **Full Stack Developer** from India | Pre-final year CSE student at **Technocrats Institute of Technology – Excellence, Bhopal**
 
-- 🔭 Building **MonadPay – Deep Link Crypto Payment System**
 - 💻 Solved **400+ DSA problems** on LeetCode, CodeChef, and HackerEarth
 - 🌱 Learning **Advanced Backend, System Design & Blockchain**
-- ☁️ Passionate about **Cloud + Blockchain Technologies**
+- ☁️ Passionate about **Cloud + Generative AI**
 - 📚 Expected graduation: **2027** | CGPA: **7.7**
 
 ---
@@ -37,12 +36,10 @@
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
@@ -50,7 +47,6 @@
 ### ⚙️ Backend
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express)
-![Spring](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring)
 
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
@@ -66,20 +62,6 @@
 ---
 
 ## 🚀 Featured Projects
-
-### 💳 **MonadPay – Deep Link Crypto Payment System**
-Deep-link based crypto payment system built on **Monad Blockchain**
-
-⚡ **Features**
-- Crypto payment links
-- Wallet integration  
-- Merchant API
-- Fast blockchain transactions
-
-🛠 **Tech Stack**
-- Node.js | Express | React | Blockchain
-
----
 
 ### **WasteChain – Industrial Waste Reuse Platform**
 A full-stack platform enabling industrial waste exchange between organizations.
